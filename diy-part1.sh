@@ -4,8 +4,8 @@
 # File name: diy-part1.sh
 # Description: OpenWrt DIY script part 1 (Before Update feeds)
 # Lisence: MIT
-# Author: P3TERX
-# Blog: https://p3terx.com
+# Author: z
+# Blog: 
 #=============================================================
 
 # Uncomment a feed source
